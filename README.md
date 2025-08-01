@@ -32,7 +32,7 @@ This collection showcases my work on a wide range of deep learning models and ap
 * [**Week 1:** Building a Recurrent Neural Network & Character-Level Language Model](./C5-Sequence-Models/Week-1-Recurrent-Neural-Networks/)
 * [**Week 2:** Word Vector Representations & Emojify](./C5-Sequence-Models/Week-2-Word-Embeddings-and-Emojify/)
 * [**Week 3:** Neural Machine Translation & Trigger Word Detection](./C5-Sequence-Models/Week-3-Machine-Translation-and-Trigger-Word-Detection/)
-
+* [**Week 4:** Transformers-and-Attention](./C5-Sequence-Models/Week-4-Transformers-and-Attention/)
 ---
 
 ## 🛠️ Technologies & Libraries Used
@@ -43,8 +43,4 @@ This collection showcases my work on a wide range of deep learning models and ap
 * Matplotlib
 * TensorFlow
 * Keras
-* Scikit-learn
-
----
-
-*This README was last updated on July 28, 2025.*
+* Scikit-learn 
